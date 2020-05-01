@@ -41,7 +41,7 @@ async def _(event):
             await event.edit("Hacking..")
             animation_chars = [
         
-            "`Connecting To Luttappi Private Server...`",
+            "`Connecting To Luttappi's Private Server...`",
             "`Target Selected.`",
             "`Hacking... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
